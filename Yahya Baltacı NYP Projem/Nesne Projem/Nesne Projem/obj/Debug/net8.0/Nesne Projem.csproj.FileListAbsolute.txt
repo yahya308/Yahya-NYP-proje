@@ -1,0 +1,76 @@
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Nesne Projem.exe
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Nesne Projem.deps.json
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Nesne Projem.runtimeconfig.json
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Nesne Projem.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Nesne Projem.pdb
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.AssemblyInfoInputs.cache
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.AssemblyInfo.cs
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.csproj.CoreCompileInputs.cache
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\obj\Debug\net8.0\refint\Nesne Projem.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.pdb
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.genruntimeconfig.cache
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\obj\Debug\net8.0\ref\Nesne Projem.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.forms.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.io.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.layout.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.sign.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.svg.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.commons.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.csproj.AssemblyReference.cache
+C:\Users\yahya\source\repos\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Pr.758349BA.Up2Date
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Nesne Projem.exe
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Nesne Projem.deps.json
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Nesne Projem.runtimeconfig.json
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Nesne Projem.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Nesne Projem.pdb
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.barcodes.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.forms.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.io.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.kernel.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.layout.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.pdfa.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.pdfua.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.sign.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.styledxmlparser.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.svg.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\itext.commons.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.csproj.AssemblyReference.cache
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.AssemblyInfoInputs.cache
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.AssemblyInfo.cs
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Pr.758349BA.Up2Date
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\obj\Debug\net8.0\refint\Nesne Projem.dll
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.pdb
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\obj\Debug\net8.0\Nesne Projem.genruntimeconfig.cache
+C:\Users\yahya\Desktop\Yahya Baltacı NYP Projem\Nesne Projem\Nesne Projem\obj\Debug\net8.0\ref\Nesne Projem.dll
